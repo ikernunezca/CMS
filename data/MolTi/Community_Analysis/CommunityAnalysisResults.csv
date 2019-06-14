@@ -1,0 +1,10 @@
+"MeanLengthPerCommunity","NumberOfCommunities","ResolutionParameter","LargestCommunityLength","MostLittleCommunityLength","MedianLengthPerCommunity","Length1Communities","IDLargestCommunity","IDCandidateGenesCommunity"
+"0",9253.5,2,0,18481,26,9253.5,0,2,0
+"0.5",2056.33333333333,9,0.5,11028,2,259,0,3,0
+"1",1321.92857142857,14,1,4695,2,819.5,0,7,0
+"1.5",143.46511627907,129,1.5,2223,1,6,41,53,0
+"2",76.1604938271605,243,2,1817,1,3,95,51,0
+"2.5",50.7041095890411,365,2.5,901,1,2,173,342,0
+"3",38.7175732217573,478,3,937,1,1,243,38,0
+"3.5",31,597,3.5,867,1,2,290,54,0
+"4",25.4566712517194,727,4,781,1,1,398,75,0
