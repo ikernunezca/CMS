@@ -63,6 +63,7 @@ Python version used: 2.7.15
 
 
 ## E) Workflow for Gene Expression Atlas Supplementary Figure:
+	*Before doing anything, please go to ~/CMS/data/fibroblast_expression/ and extract the zip file in the same directory; the script uses the uncrompessed file. 
 	1. Open a terminal/console, and go to the directory (cd) where your CMS folder has been dowloaded.
 	2. Within the CMS folder, enter Scripts folder. From this location (~/CMS/Scripts/) launch the python Script 'Suppl_Figure_Gene_Expression_Atlas.py':
 		~/CMS/Scripts$ python2.7 Suppl_Figure_Gene_Expression_Atlas.py
