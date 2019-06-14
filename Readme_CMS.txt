@@ -25,6 +25,14 @@ In Python:
 R version used: 3.5.1
 Python version used: 2.7.15
 
+
+####First -MUST- steps to do before running any script:
+	1. Download the full repository and remember the destination directory where you have saved it: We will work from that very repository in most of the cases.
+	2. Go to the ~/CMS/data/Networks and uncompress "InteractomaSinDuplciadosJurisica.zip" file
+
+
+
+
 ## A) Workflow for the monolayer louvain clustering analysis (Suppl. Figure 4, Figure 3
 	1. Open a terminal/console, and go to the directory (cd) where your CMS folder has been downloaded.
 	2. Access CMS folder and launch R from the terminal.
