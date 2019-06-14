@@ -51,6 +51,8 @@ Python version used: 2.7.15
 
 
 ## C) Workflow for the Wilcoxon-Test (Suppl. Fig 2) (Suppl. Figure 3):
+	* Splicit files generated during the study's run are available in ~/CMS/data/DisGeNET/random/RandomizationsWith12to30/. Each archive correspond to a randomized version of the original downloaded database from DisGeNET. To run the process with this files, just jump to the point 5 of this paragraph.
+
 	1. Open a terminal/console, and go to the directory (cd) where your CMS folder has been dowloaded.
 	2. Access CMS folder and launch R from the terminal.
 	3. Launch the 'DisGeNET_Preprocessing_v2.R' script's content in this terminal. DO NOT close the R session when the run is over.
@@ -75,7 +77,7 @@ Python version used: 2.7.15
 	1. Open a terminal/console, and go to the directory (cd) where your CMS folder has been dowloaded.
 	2. Within the CMS folder, enter Scripts folder. From this location (~/CMS/Scripts/) launch the python Script 'Suppl_Figure_Gene_Expression_Atlas.py':
 		~/CMS/Scripts$ python2.7 Suppl_Figure_Gene_Expression_Atlas.py
-	3. After launching the script, we will be requested to type the gene ID. Gene IDs are from each one of the genes in the module:
+	3. After launching the script, we will be requested to type the gene ID. Gene IDs are from each one of the genes in the severe module:
 	       ID   Gene		
 		0: 'AGRN'
 		1: 'CHGB'
