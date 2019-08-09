@@ -1,6 +1,8 @@
 
 ###### README for CMS Paper Multilayer network analysis scripts. Please, feel free to contact the author for any information and doubts at: iker.nunez@bsc.es
 
+##The 3 network files used in the paper are represented here with the Gene Entrez ID. Internal processing of the files by the scripts change it to the gene name (e.g., "375790" to "AGRN"). 
+
 This Readme file contains the instructions to launch the scripts generated for the different network analysis. As some of them can take some time to end, we highly recommend the user to launch everything from a terminal rather than other programs such as RStudio to improve the performance.
 
 Before launching any of the scripts, please take a moment to revise if you have installed the library dependencies of these scrpits:
