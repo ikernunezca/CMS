@@ -59,7 +59,7 @@ Python version used: 2.7.15
 	4. Once 'DisGeNET_Preprocessing_v2.R' script has ended, without exiting the R session, copy all content from 'Randomized_DisGenET_Generator_v2.R' script and paste it into the R session. This step may take quite some time. In local, 1 module Intel® Xeon(R) E-2124 CPU, process lasted for 26 h. 
 	5. Once 'Randomized_DisGenET_Generator_v2.R' script is over, copy all content from 'WilcoxonTest_DisGeNET_Randomizations.R' script and paste it into the R session. After running it, the output plot -Suppl Figure 3- will be saved in /Plots folder.
 	
-	*. To run the same analysis, from 0 to 30, use the other versions of the scripts (the ones that have not the structure "XXXX_v2.R").
+	*. To run the same analysis, from resolution parameter = 0 to 30, use the other versions of the scripts (the ones that have not the structure "XXXX_v2.R").
 
 
 ## D) Workflow for Module significance test:
