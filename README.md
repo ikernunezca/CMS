@@ -8,6 +8,7 @@ Before launching any of the scripts, please take a moment to revise if you have 
 In R:
 	igraph,
 	AnnotationDbi,
+	biomaRt,
 	org.Hs.eg.db,
 	gplots.
 
