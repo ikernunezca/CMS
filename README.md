@@ -31,7 +31,7 @@ Python version used: 2.7.15
 
 ####First -MUST- steps to do before running any script:
 	1. Download the full repository and remember the destination directory where you have saved it: We will work from that very repository in most of the cases.
-	2. Go to the ~/CMS/data/Networks directory and uncompress "InteractomaSinDuplciadosJurisica.zip" file
+	2. Go to the ~/CMS/data/Networks directory and uncompress "InteractomaSinDuplciadosJurisica.zip" file.
 
 
 
