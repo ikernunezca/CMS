@@ -1,4 +1,4 @@
-tab <- read.table('table.tsv',sep='\t',header=T)
+tab <- read.table('~/Fisher_Input/phenotyping_table.tsv',sep='\t',header=T)
 
 tab <- tab[,-c(1:4)]
 colnames(tab) <- 
