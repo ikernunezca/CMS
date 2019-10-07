@@ -1,4 +1,4 @@
-tab <- read.table('~/Fisher_Input/phenotyping_table.tsv',sep='\t',header=T)
+tab <- read.table('data/Fisher_Input/phenotyping_table.tsv',sep='\t',header=T)
 
 tab <- tab[,-c(1:4)]
 colnames(tab) <- 
@@ -41,7 +41,7 @@ res <- sapply(c,function(x) fisherP(x))
 names(res) <- colnames(tab)[c]
 res <- sort(res)
 
-pdf('~/Plots/Fisher_CMS.pdf',width=10)
+pdf('Plots/Fisher_CMS.pdf',width=10)
 op <- par(mar=c(15,4,4,4),ps=18)
 bp <- barplot(res,ylab='p-value',names='')
 abline(h=0.05,lty='dashed')
