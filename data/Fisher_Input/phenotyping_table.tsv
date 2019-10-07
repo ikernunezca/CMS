@@ -1,0 +1,21 @@
+Identifier	WGS sample code	RNAseq sample code	Biobank code	Age at diagnosis	Gender	Clinical severity	Treatment (Pyridostigmine)	Ptosis (HP:0000508)	Swallowing dysfunction (HP:0011968, HP:0002033, HP:0002015)	Speech dysfynction (<50) (HP:0002465, HP:0001260)	Head, lifted (<120sec) (HP:0000467, HP:0002421)	Shoulder, lift (<240sec) (HP:0003325)	Leg, lift (<100sec) (HP:0002355)	Rise from floor (HP:0003391)	Respiratory dysfunction (HP:0002093)	FCV (<80%) (HP:0002747, HP:0004888, HP:0004882)
+Patient 1	NEW0937	NEW0964	F056-14N	52	F	not-severe (mild)	Y	N	Y	N	Y	Y	Y	Y	N	N
+Patient 2	NEW0936	NEW0911	F071-14N	15	M	severe	Y	Y	Y	N	N	Y	N	Y	Y	Y
+Patient 3	NEW0935	NEW0962	F076-13N	37	F	severe	Y	Y	N	N	Y	Y	Y	Y	NI	Y
+Patient 4	NEW0934	NEW0961	F103-14N	37	M	not-severe (mild)	Y	Y	N	N	N	N	N	Y	NI	NI
+Patient 5	NEW0933	NEW0960	F113-14N	32	M	not-severe (mild)	N	Y	N	N	N	Y	N	Y	NI	N
+Patient 6	NEW0932	NEW0959	F122-14N	45	M	not-severe (mild)	N	Y	N	N	N	N	N	Y	N	Y
+Patient 7	NEW0931	NEW0958	F128-14N	27	M	not-severe (moderate)	Y	Y	Y	N	N	N	N	Y	NI	N
+Patient 8	NEW0930	NEW0957	F130-14N	46	F	not-severe (mild)	Y	Y	N	N	N	N	N	Y	NI	N
+Patient 9	NEW0929	NEW0956	F131-14N	49	M	not-severe (mild)	Y	Y	N	N	N	N	N	Y	NI	Y
+Patient 10	NEW0928	NEW0955	F132-14N	20	M	not-severe (mild)	Y	Y	Y	N	N	N	N	Y	NI	N
+Patient 11	NEW0927	NEW0954	F136-14N	44	F	not-severe (mild)	N	Y	Y	N	N	Y	N	Y	NI	NI
+Patient 12	NEW0909	NEW0953	F157-13N	49	F	severe	Y	Y	N	N	N	Y	N	Y	NI	Y
+Patient 13	NEW0908	NEW0952	F158-13N	26	M	severe	N	N	Y	N	Y	Y	Y	Y	NI	Y
+Patient 14	NEW0907	NEW0951	F159-13N	29	M	not-severe (mild)	Y	Y	Y	Y	N	Y	Y	Y	NI	N
+Patient 15	NEW0923	NEW0950	F160-13N	28	M	not-severe (mild)	Y	N	Y	N	Y	Y	N	Y	NI	Y
+Patient 16	NEW0922	NEW0949	F187-13N	25	F	severe	Y	Y	Y	N	Y	Y	N	Y	NI	Y
+Patient 17	NEW0921	NEW0948	F188-13N	60	M	not-severe (moderate)	Y	N	Y	N	N	Y	N	Y	N	Y
+Patient 18	NEW0920	NEW0947	F241-13N	51	M	severe	N	Y	Y	Y	N	Y	Y	Y	N	Y
+Patient 19	NEW0919	NEW0946	F254-13N	62	F	severe	N	Y	N	N	Y	Y	Y	N	N	Y
+Patient 20	NEW0918	NEW0945	F255-13N	57	M	severe	N	Y	Y	N	Y	Y	Y	Y	NI	Y
