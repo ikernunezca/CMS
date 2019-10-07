@@ -99,3 +99,11 @@ Python version used: 2.7.15
 		14:'VCAN'
 
 	*IMPORTANT: ID 13 (i.e. 'USH2A') will retrieve no result as there is no information in the Gene Expression Atlas output for the gene neither in GTEx nor in Ilumina Body Map.
+
+
+## F) Fisher test of association between clinical tests and severity (@cirillodavide)
+	1. Run the script for fisher test: 
+		~/CMS$ Rscript Scripts/Fisher_CMS.R
+	2. Output will be saved at /Plots folder: A barplot with the pvalues of the test. 
+		
+		
