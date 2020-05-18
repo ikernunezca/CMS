@@ -4,15 +4,15 @@
 
 This Readme file contains the instructions to launch the scripts generated for the different network analysis. As some of them can take some time to end, we highly recommend the user to launch everything from a terminal rather than other programs such as RStudio to improve the performance.
 
-Before launching any of the scripts, please take a moment to revise if you have installed the library dependencies of these scripts:
-In R:
+##### Before launching any of the scripts, please take a moment to check if you have installed the library dependencies of these scripts:
+	In R:
 	igraph,
 	AnnotationDbi,
 	biomaRt,
 	org.Hs.eg.db,
 	gplots.
 
-In Python:
+	In Python:
 	IPython,
 	pandas,
 	numpy,
