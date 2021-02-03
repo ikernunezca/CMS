@@ -36,7 +36,7 @@ Python version used: 2.7.15
 
 
 
-### A) Workflow for the monolayer louvain clustering analysis (Suppl. Figure 4, Figure 3
+### A) Monolayer louvain clustering analysis (Suppl. Figure 4, Figure 3
 	1. Open a terminal/console, and go to the directory (cd) where your CMS folder has been downloaded.
 	2. Access CMS folder and launch R from the terminal.
 	3. Open 'LouvainClustering.R' in a text editor and change line 3 as desired to set the plot generation between severe and not severe. Copy all content from the script and run it in the terminal you opened.
@@ -45,7 +45,7 @@ Python version used: 2.7.15
 		-5.1 ->  3 edgelists, in .csv format, the 3 community clustering structures, from the phenotype selected, obtained from applying louvain algorithm to the reactome, metabolome and interactome networks.
 		-5.2 -> A pdf, with the heatmap of figure 3, depending on the phenotype selected.
 
-### B) Workflow to obtain Figure 4 modules:
+### B) Figure 4 modules:
 	1. Open a terminal/console, and go to the directory (cd) where your CMS folder has been downloaded.
 	2. Access CMS folder and launch R from the terminal.
 	3. Open 'Figure_4_Plots.R' in a text editor and change line 2 as desired to set the plot generation between severe and not severe.
@@ -53,7 +53,7 @@ Python version used: 2.7.15
 	4. Output files (pdf graph and csv edgelist) will be in /Plots folder.
 
 
-### C) Workflow for the Wilcoxon-Test (Suppl. Fig 2) (Suppl. Figure 3):
+### C) Wilcoxon-Test (Suppl. Fig 2) (Suppl. Figure 3):
 	* Splicit files generated during the study's run are available in ~/CMS/data/DisGeNET/random/RandomizationsWith12to30/. Each archive correspond to a randomized version of the original downloaded database from DisGeNET. To run the process with this files, just jump to the point 5 of this paragraph.
 
 	1. Open a terminal/console, and go to the directory (cd) where your CMS folder has been dowloaded.
@@ -65,7 +65,7 @@ Python version used: 2.7.15
 	*. To run the same analysis, from resolution parameter = 0 to 30, use the other versions of the scripts (the ones that have not the structure "XXXX_v2.R").
 
 
-### D) Workflow for Module significance test:
+### D) Module significance test:
 	1. Open a terminal/console, and go to the directory (cd) where your CMS folder has been dowloaded.
 	2. Access CMS folder and launch R from the terminal.
 	3. Before launching 'SignificanceShufflingTest.R', open the script in a text editor and follow the instructions from line 5 to select the desired analysis (between 'severe' and 'notsevere'). Copy and paste the script's content into te R session.
@@ -75,7 +75,7 @@ Python version used: 2.7.15
 		-amigoscausalesenlargestcomponents: A list with the number of causal genes from the module of interest that are included in the largest component of each iteration.
 
 
-### E) Workflow for Gene Expression Atlas Supplementary Figure:
+### E) Gene Expression Atlas Supplementary Figure:
 	*Before doing anything, please go to ~/CMS/data/fibroblast_expression/ and extract the zip file in the same directory; the script uses the uncrompessed file. 
 	1. Open a terminal/console, and go to the directory (cd) where your CMS folder has been dowloaded.
 	2. Within the CMS folder, enter Scripts folder. From this location (~/CMS/Scripts/) launch the python Script 'Suppl_Figure_Gene_Expression_Atlas.py':
