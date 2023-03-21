@@ -2,7 +2,7 @@
 
 ##The 3 network files used in the paper are represented here with the Gene Entrez ID. Internal processing of the files by the scripts change it to the gene name (e.g., "375790" to "AGRN"). 
 
-This Readme file contains the instructions to launch the scripts generated for the different network analysis. As some of them can take some time to end, we highly recommend the user to launch everything from a terminal rather than other programs such as RStudio to improve the performance.
+This Readme file contains the instructions to launch the scripts generated for the different network analysis.
 
 ##### Before launching any of the scripts, please take a moment to check if you have installed the library dependencies of these scripts:
 
