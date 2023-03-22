@@ -1,4 +1,6 @@
-###### README for CMS Paper Multilayer network analysis scripts. Please, feel free to contact the author for any information and doubts at: iker.nunez@bsc.es
+# PLEASE NOTE THAT THE PAPER IS CURRENTLY UNDER REVISION, Some of the scripts and file are under active development, with changes to some of the figures of the manuscript being expected.
+
+###### README for 'Rare disease research workflow using multilayer networks elucidates the molecular determinants of severity in Congenital Myasthenic Syndromes' (https://doi.org/10.1101/2023.01.19.524736) Please, feel free to contact the author for any information and doubts at: iker.nunez@bsc.es
 
 ##The 3 network files used in the paper are represented here with the Gene Entrez ID. Internal processing of the files by the scripts change it to the gene name (e.g., "375790" to "AGRN"). 
 
@@ -25,7 +27,7 @@ This Readme file contains the instructions to launch the scripts generated for t
 		scipy
 		random
 
-R version used: 3.5.1
+R version used: 3.6.1
 
 Python version used: 2.7.15
 
@@ -87,3 +89,6 @@ Python version used: 2.7.15
 ### F) Fisher test of association between clinical tests and severity (@cirillodavide)
 	1. Jupyter Notebook in /Scripts folder: Fisher_CMS.ipynb
 	2. Output will be saved at /Plots folder: A barplot with the pvalues of the test. 
+	
+### G) Cytoscape Session: 
+	1. We provide a .cys file with the ntwork plots of the paper (Figure 3, 4 and Supplementary Figures 3, 6 and 8)
