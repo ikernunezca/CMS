@@ -1,4 +1,4 @@
-#### PLEASE NOTE THAT THE PAPER IS CURRENTLY UNDER REVISION, some of the scripts and file are under active development, with changes to some of the figures of the manuscript being expected.
+#### PLEASE NOTE THAT THE PAPER IS CURRENTLY UNDER REVISION, some of the scripts and the Cytoscape Session are under active development, with changes to some of the figures of the manuscript being expected.
 
 ###### README for 'Rare disease research workflow using multilayer networks elucidates the molecular determinants of severity in Congenital Myasthenic Syndromes' (https://doi.org/10.1101/2023.01.19.524736) Please, feel free to contact the author for any information and doubts at: iker.nunez@bsc.es
 
