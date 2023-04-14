@@ -91,4 +91,4 @@ Python version used: 2.7.15
 	2. Output will be saved at /Plots folder: A barplot with the pvalues of the test. 
 	
 ### G) Cytoscape Session: 
-	1. We provide a .cys file with the network plots of the paper (Figure 3, 4 and Supplementary Figures 3, 6 and 8)
+	1. We provide a Cytoscape session file /Cytoscape_Session/CMS_Session.cys with the network plots of the paper (Figure 3, 4 and Supplementary Figures 3, 6 and 9)
