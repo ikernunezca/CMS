@@ -4,7 +4,7 @@
 
 ###### README for 'Rare disease research workflow using multilayer networks elucidates the molecular determinants of severity in Congenital Myasthenic Syndromes' (https://doi.org/10.1101/2023.01.19.524736) Please, feel free to contact the author for any information and doubts at: iker.nunez@bsc.es
 
-####### The 3 network files used in the paper are represented here with the Gene Entrez ID. Internal processing of the files by the scripts change it to the gene name (e.g., "375790" to "AGRN"). 
+###### The 3 network files used in the paper are represented here with the Gene Entrez ID. Internal processing of the files by the scripts change it to the gene name (e.g., "375790" to "AGRN"). 
 
 This Readme file contains the instructions to launch the scripts generated for the different network analysis.
 
