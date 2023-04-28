@@ -17,6 +17,7 @@ This Readme file contains the instructions to launch the scripts generated for t
 		biomaRt
 		org.Hs.eg.db
 		gplots
+		parallelDist
 
 	Python libraries
 		IPython
