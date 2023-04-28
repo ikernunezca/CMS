@@ -21,6 +21,7 @@ This Readme file contains the instructions to launch the scripts generated for t
 		VennDiagram
 		tidyverse
 		brainGraph
+		reshape2
 
 	Python libraries
 		IPython
