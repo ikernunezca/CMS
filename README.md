@@ -1,8 +1,9 @@
+###### README for 'Rare disease research workflow using multilayer networks elucidates the molecular determinants of severity in Congenital Myasthenic Syndromes' (https://doi.org/10.1101/2023.01.19.524736) Please, feel free to contact the author for any information and doubts at: iker.nunez@bsc.es
+
 ###### PLEASE NOTE THAT THE PAPER IS CURRENTLY UNDER REVISION, some of the scripts and the Cytoscape Session are under active development, with changes to some of the current figures of the manuscript being expected. An update of the revised version of the manuscript in bioRxiv is expected in short-time.
 
 ###### If the Jupyter Notebooks presented in this repository do not render natively in Github (this is an internal issue from Github), we highly recommend the user to try *nbviewer* (https://nbviewer.org/) to render them.
 
-###### README for 'Rare disease research workflow using multilayer networks elucidates the molecular determinants of severity in Congenital Myasthenic Syndromes' (https://doi.org/10.1101/2023.01.19.524736) Please, feel free to contact the author for any information and doubts at: iker.nunez@bsc.es
 
 ###### The 3 network files used in the paper are represented here with the Gene Entrez ID. Internal processing of the files by the scripts change it to the gene name (e.g., "375790" to "AGRN"). 
 
