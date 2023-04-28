@@ -18,6 +18,9 @@ This Readme file contains the instructions to launch the scripts generated for t
 		org.Hs.eg.db
 		gplots
 		parallelDist
+		VennDiagram
+		tidyverse
+		brainGraph
 
 	Python libraries
 		IPython
