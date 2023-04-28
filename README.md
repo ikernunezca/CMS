@@ -2,7 +2,7 @@
 
 ###### PLEASE NOTE THAT THE PAPER IS CURRENTLY UNDER REVISION, some of the scripts and the Cytoscape Session are under active development, with changes to some of the current figures of the manuscript being expected. An update of the revised version of the manuscript in bioRxiv is expected in short-time.
 
-###### If the Jupyter Notebooks presented in this repository do not render natively in Github (this is an internal issue from Github), we highly recommend the user to try *nbviewer* (https://nbviewer.org/) to render them.
+### If the Jupyter Notebooks presented in this repository do not render natively in Github (this is an internal issue from Github), we highly recommend the user to try *nbviewer* (https://nbviewer.org/) to render them.
 
 
 ###### The 3 network files used in the paper are represented here with the Gene Entrez ID. Internal processing of the files by the scripts change it to the gene name (e.g., "375790" to "AGRN"). 
@@ -17,6 +17,10 @@ This Readme file contains the instructions to launch the scripts generated for t
 		biomaRt
 		org.Hs.eg.db
 		gplots
+		parallelDist
+		VennDiagram
+		tidyverse
+		brainGraph
 
 	Python libraries
 		IPython
