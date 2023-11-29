@@ -76,23 +76,23 @@ https://github.com/ikernunezca/CMS/tree/master/data/InputGenes
         3.1. CSV file with the edgelist to produce the shared community pertinance graph in Cytoscape (Actual Figure 4)
         3.2. Shared community pertinance graph plotted with the jupyter notebook as output from igraph.
 
-### F) Fisher test of association between clinical tests and severity (@cirillodavide) (Supplementary Figure 1)
+### D) Fisher test of association between clinical tests and severity (@cirillodavide) (Supplementary Figure 1)
 	1. Jupyter Notebook in /Scripts folder: Fisher_CMS.ipynb
 	2. Output will be saved at /Plots folder: A barplot with the pvalues of the test. 
 	
 
-### D) Wilcoxon-Test (Supplementary Figure 5):
+### E) Wilcoxon-Test (Supplementary Figure 5):
 	* Splicit files generated during the study's run are available in ~/CMS/data/DisGeNET/random/RandomizationsWith12to30/. Each file correspond to a randomized version of the original downloaded database from DisGeNET.
 	1. Jupyter notebook in /Scripts folder: DisGeNET_Preprocessing_WilcoxonTests.ipynb
     2. Outputs: Supplementary Figures 5 A, B & C.
 
 
-### E) Module significance test (Supplementary Figure 6) :
+### F) Module significance test (Supplementary Figure 6) :
 	1. Jupyter Notebook in /Scripts folder: SignificanceShufflingTest.ipynb
     2. p-values indicate the probability of finding the given number of genes, out of the 15 composing the modules for severe and not-severe phenotypes, upon 1000 iterations of label shuffling.
 
 
-### E) Gene Expression Atlas (Supplementary Figure 7):
+### G) Gene Expression Atlas (Supplementary Figure 7):
 	*Before doing anything, please go to ~/CMS/data/fibroblast_expression/ and extract the zip file in the same directory; the script uses the uncrompessed file. 
 	1. Open a terminal/console, and go to the directory (cd) where your CMS folder has been dowloaded.
 	2. Within the CMS folder, enter Scripts folder. From this location (~/CMS/Scripts/) launch the python Script 'Suppl_Figure_Gene_Expression_Atlas.py':
