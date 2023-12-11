@@ -1,0 +1,25 @@
+Provided files include the community structure output from MolTi (2015 version). Each line of the file encode a community. Nodes within the same line are part of the same community. 
+
+Resolution 0 : CommunitiesResolution0MultilayerNetwork5112018.csv
+Resolution 0.5: CommunitiesResolution05MultilayerNetwork5112018.csv
+Resolution 1: CommunitiesResolution1MultilayerNetwork5112018.csv
+Resolution 1.5: CommunitiesResolution15MultilayerNetwork5112018.csv
+Resolution 2: CommunitiesResolution2MultilayerNetwork5112018.csv
+Resolution 2.5: CommunitiesResolution25MultilayerNetwork5112018.csv
+Resolution 3: CommunitiesResolution3MultilayerNetwork5112018.csv
+Resolution 3.5: CommunitiesResolution35MultilayerNetwork5112018.csv
+Resolution 4: CommunitiesResolution4MultilayerNetwork5112018.csv
+Resolution 5: CommunitiesResolution5MultilayerNetwork5112018.csv
+Resolution 6: CommunitiesResolution6MultilayerNetwork5112018.csv
+Resolution 7: CommunitiesResolution7MultilayerNetwork5112018.csv
+Resolution 8: CommunitiesResolution8ultilayerNetwork5112018.csv
+Resolution 9: CommunitiesResolution9MultilayerNetwork5112018.csv
+Resolution 10: CommunitiesResolution10MultilayerNetwork5112018.csv
+Resolution 11: CommunitiesResolution11MultilayerNetwork5112018.csv
+Resolution 12: CommunitiesResolution12MultilayerNetwork5112018.csv
+Resolution 15: CommunitiesResolutionIFifteenMultilayerNetwork5112018.csv
+Resolution 20: CommunitiesResolution20MultilayerNetwork5112018.csv
+Resolution 25: CommunitiesResolution25MultilayerNetwork5112018.csv
+Resolution 30: CommunitiesResolution30MultilayerNetwork5112018.csv
+
+This files can be used to reproduce Supplementary Figure 11.
