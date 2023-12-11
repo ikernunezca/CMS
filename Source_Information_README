@@ -1,5 +1,18 @@
 ##### INPUT FILES FOR FIGURE REPRODUCIBILITY
 
+All Source Data files for plotting are provided within the github repository of the project: https://github.com/ikernunezca/CMS
+We specifically provide the Cytoscape Session file (‘.cys’) containing all the plots used to produce Figures 3 and 4, as well as Supplementary Figures 3, 6, and 8 in this link: https://github.com/ikernunezca/CMS/blob/master/Cytoscape_Session/CMS_Session.cys
+
+Specific input Source Data Files for creating the Cytoscape Session used to build Figure 3, 4A, 4B, 6 and 8 can be accessed from the following link as csv files: 
+https://github.com/ikernunezca/CMS/tree/master/Cytoscape_Session
+
+Additionally, the Cytoscape Session provides an extra plot with the incident interactions considered to build Figure 5, which was manually rendered.
+
+Supplementary Figure 1 source data is provided as Supplementary Table 1. 
+
+Input Data for reproducing Supplementary Figure 2 can be accessed from:
+https://github.com/ikernunezca/CMS/tree/master/data/InputGenes
+
 Cytoscape Session with the graphics used to build Figures 3 and 4, as well as Supplementary Figures 3, 6, and 8 is provided as a .cys file ('CMS_Session.cys').
 
 1. Source input for Figures 3 and 4 -> 'Figure3_input.csv': A csv file providing an edgelist where nodes are connected if they are together at least at 1 value of resolution. Columns Var1 and Var2 provide the node names and
