@@ -1,0 +1,13 @@
+##### INPUT FILES FOR FIGURE REPRODUCIBILITY
+
+Cytoscape Session with the graphics used to build Figures 3 and 4, as well as Supplementary Figures 3, 6, and 8 is provided as a .cys file ('CMS_Session.cys').
+
+1. Source input for Figures 3 and 4 -> 'Figure3_input.csv': A csv file providing an edgelist where nodes are connected if they are together at least at 1 value of resolution. Columns Var1 and Var2 provide the node names and
+value indicates the number of resolution values at which the 2 nodes where NOT toghether across the range. Nodes that are always together have a value of 0. 
+
+2. Input for Supplementary Figure 3 -> Available in ~/CMS/Plots/. Edgelists, in csv format, providing the communities obtained in the script 'LouvainClustering_Supplementary_Figure_3_&_4.ipynb'. File naming: 'SupplementaryFigure_3interactomenotsevere.csv'
+
+3. Node metadata -> Files 'NOTSevereMetadata_Figure4_Supp_Fig_6.csv' and 'SevereMetadata_Figure4_Supp_Fig_6.csv': 2 column files, providing, for each node (1st column), the mutation type detected, and / or if it is also known to be a causal gene of the disease.
+This metadata is used to color the nodes of the Figures. 
+
+4. Source layer interactions used for building Figure 5 (natively rendered with Google Slides) are provided as an extra figure within the Cytoscape Session.
