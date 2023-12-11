@@ -9,6 +9,8 @@
 
 This Readme file contains the instructions to launch the scripts generated for the different network analysis.
 
+Information on the source data provided for reproducibility can be found in the file 'Source_Information_README'
+
 ##### Before launching any of the scripts, please take a moment to check if you have installed the library dependencies of these scripts:
 
 	R libraries
