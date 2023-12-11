@@ -57,7 +57,10 @@ https://github.com/ikernunezca/CMS/tree/master/Cytoscape_Session
 Additionally, the Cytoscape Session provides an extra plot with the incident interactions considered to render Figure 5.
 
 Supplementary Figure 1 source data is provided as Supplementary Table 1. 
+
 Supplementary Figure 2 Source data -> https://github.com/ikernunezca/CMS/blob/master/data/InputGenes/AllGenes.csv
+
+Supplementary Figure 11 can be reproduced using the information provided in the README file of this folder: CMS/data/MolTi/Community_Analysis/
 
 #####
 
