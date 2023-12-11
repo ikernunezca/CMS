@@ -42,18 +42,23 @@ R version used: 3.6.1
 Python version used: 2.7.15
 
 ##### 
-All Source Data files for plotting are provided within the github repository of the project: https://github.com/ikernunezca/CMS
-We specifically provide the Cytoscape Session file (‘.cys’) containing all the plots used to produce Figures 3 and 4, as well as Supplementary Figures 3, 6, and 8 in this link: https://github.com/ikernunezca/CMS/blob/master/Cytoscape_Session/CMS_Session.cys
+WGS metadata and variant data, and patient phenotypic descriptions are under controlled access in the RD-Connect GPAP: https://platform.rd-connect.eu/#/. Data is available for registered users of the GPAP. Details on access can be accessed from: https://platform.rd-connect.eu/userregistration. Biobank sample identifiers are provided in Supplementary Table 1.
 
-Specific input Source Data Files for creating the Cytoscape Session used to build Figure 3, 4A, 4B, 6 and 8 can be accessed from the following link as csv files: 
+The raw RNA-Seq dataset analyzed in this study is not publicly available due to sensible content. Minimal, pre-processed RNA-Seq data for reproducibility is provided within the github repository of the project: CMS/data/fibroblast_expression/. Reasonable requests for further information will be carefully evaluated by the corresponding author and co-authors. 
+
+All Source Data files for plotting are provided within the github repository of the project: https://github.com/ikernunezca/CMS. Informacion on this source data can be accessed from : https://github.com/ikernunezca/CMS/blob/master/Source_Information_README. 
+
+We specifically provide the Cytoscape Session file (‘.cys’) containing all the plots used to produce Figures 3 and 4, as well as Supplementary Figures 3, 6, and 8 in this link: 
+https://github.com/ikernunezca/CMS/blob/master/Cytoscape_Session/CMS_Session.cys
+
+Specific input Source Data files for creating the Cytoscape Session used to build Figure 3, 4A, 4B, 6 and 8 can be accessed from the following link as csv files: 
 https://github.com/ikernunezca/CMS/tree/master/Cytoscape_Session
 
-Additionally, the Cytoscape Session provides an extra plot with the incident interactions considered to build Figure 5, which was manually rendered.
+Additionally, the Cytoscape Session provides an extra plot with the incident interactions considered to render Figure 5.
 
 Supplementary Figure 1 source data is provided as Supplementary Table 1. 
+Supplementary Figure 2 Source data -> https://github.com/ikernunezca/CMS/blob/master/data/InputGenes/AllGenes.csv
 
-Input Data for reproducing Supplementary Figure 2 can be accessed from:
-https://github.com/ikernunezca/CMS/tree/master/data/InputGenes
 #####
 
 
