@@ -48,7 +48,7 @@ We specifically provide the Cytoscape Session file (‘.cys’) containing all t
 Specific input Source Data Files for creating the Cytoscape Session used to build Figure 3, 4A, 4B, 6 and 8 can be accessed from the following link as csv files: 
 https://github.com/ikernunezca/CMS/tree/master/Cytoscape_Session
 
-Additionally, the Cytoscape Session provides an extra plot with the incident interactions considered to build Figure 4C, which was manually rendered.
+Additionally, the Cytoscape Session provides an extra plot with the incident interactions considered to build Figure 5, which was manually rendered.
 
 Supplementary Figure 1 source data is provided as Supplementary Table 1. 
 
