@@ -13,6 +13,17 @@ Supplementary Figure 1 source data is provided as Supplementary Table 1.
 Input Data for reproducing Supplementary Figure 2 can be accessed from:
 https://github.com/ikernunezca/CMS/tree/master/data/InputGenes
 
+FILES IN CMS/tree/master/data/InputGenes: 
+
+1. AllGenes.csv -> A table where each column represent if a gene is mutated with a compound heterozygous variant or a copy number variation and the severity group in which the gene is mutated. For conveniency, extra columns with genes only mutated in each severity group is provided, as well as a last extra column with the causal genes of the disease.
+2. CNV_genes_for_iker.tsv -> A table with the number of CNVs for each gene in each patient.
+3. cmsgenes.csv -> A list of genes known to cause the disease (https://www.musclegenetable.fr/4DACTION/Blob_groupe2) (Version November 2018)
+4. compound_all_nov2018.csv -> Alist of genes with compound heterozygous mutations and the patient in which they are observed.
+
+
+FILES IN CMS/tree/master/Cytoscape_Session:
+
+
 Cytoscape Session with the graphics used to build Figures 3 and 4, as well as Supplementary Figures 3, 6, and 8 is provided as a .cys file ('CMS_Session.cys').
 
 1. Source input for Figures 3 and 4 -> 'Figure3_input.csv': A csv file providing an edgelist where nodes are connected if they are together at least at 1 value of resolution. Columns Var1 and Var2 provide the node names and
